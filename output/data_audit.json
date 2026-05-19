@@ -1,0 +1,79 @@
+{
+  "trade_count": 28,
+  "trade_source": "data/processed/trades.json",
+  "product_definitions_source": "data/product_definitions",
+  "asset_class_counts": {
+    "Rates": 10,
+    "Credit": 4,
+    "FX": 5,
+    "Equity": 4,
+    "Commodities": 2,
+    "EventContract": 3
+  },
+  "declared_parse_status_counts": {
+    "OK": 26,
+    "PARTIAL": 1,
+    "FAILED": 1
+  },
+  "event_trades": [
+    "T026",
+    "T027",
+    "T028"
+  ],
+  "null_margin_trades": [
+    "T017",
+    "T026",
+    "T027",
+    "T028"
+  ],
+  "missing_lei_trades": [
+    "T021",
+    "T027"
+  ],
+  "invalid_currency_candidates": [
+    [
+      "T018",
+      "INVALID_CCY"
+    ],
+    [
+      "T019",
+      "CNH"
+    ],
+    [
+      "T027",
+      "USDC"
+    ]
+  ],
+  "non_utc_timestamp_candidates": [
+    [
+      "T013",
+      "2025-09-01"
+    ],
+    [
+      "T025",
+      "NOT_A_DATE"
+    ]
+  ],
+  "libor_reference_rates": [
+    [
+      "T005",
+      "GBP-LIBOR-BBA"
+    ]
+  ],
+  "reference_rates_not_exactly_in_codesets": [
+    [
+      "T003",
+      "GBP-SONIA-OIS-COMPOUND"
+    ],
+    [
+      "T010",
+      "SGD-SORA-OIS-COMPOUND"
+    ]
+  ],
+  "codeset_checks": {
+    "XAU_in_currency_codeset": true,
+    "USDC_in_currency_codeset": false,
+    "CNH_in_currency_codeset": false,
+    "GBP_LIBOR_BBA_in_rates_codeset": true
+  }
+}
