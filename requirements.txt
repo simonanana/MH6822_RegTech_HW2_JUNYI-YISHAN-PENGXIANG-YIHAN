@@ -1,0 +1,2 @@
+# The compliance engine uses only the Python standard library.
+# Optional for editing the written report manually: pandoc, LibreOffice.
