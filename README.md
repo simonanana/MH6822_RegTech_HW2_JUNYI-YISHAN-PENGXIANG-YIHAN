@@ -12,10 +12,10 @@ This project implements the Homework 2 pipeline:
 
 | Matriculation Number | Name | Responsibility | Main Deliverables | Related Module |
 | --- | --- | --- | --- | --- |
-| G2505246J | LIU YISHAN | Data pipeline and trade parser | Raw/processed data review; parser handling; nulls, bad dates, partial timestamps. | M1 / Integration |
-| G2505431H | GONG PENGXIANG | UPI lookup and ANNA-DSB taxonomy validation | ANNA-DSB template lookup; product alias mapping; currency/reference-rate codesets; EventContract no-product-definition. | M2 / UPI Lookup Engine |
-| G2506255B | GUO YIHAN | Compliance checker and regime validation | LEI/UTI checks; CFTC/EMIR field validation; null-versus-zero margin logic; tests. | M3 / Testing |
-| G2505266E | ZHANG JUNYI | Classification analysis, report, and dashboard integration | Prediction-market analysis; economic function test; EventContract schema; regulatory arbitrage; report/dashboard integration. | M4 / Dashboard / Final Report |
+| G2505246J | LIU YISHAN | YISHAN002@e.ntu.edu.sg | Data pipeline and trade parser | Raw/processed data review; parser handling; nulls, bad dates, partial timestamps. | M1 / Integration |
+| G2505431H | GONG PENGXIANG | GONG0093@e.ntu.edu.sg | UPI lookup and ANNA-DSB taxonomy validation | ANNA-DSB template lookup; product alias mapping; currency/reference-rate codesets; EventContract no-product-definition. | M2 / UPI Lookup Engine |
+| G2506255B | GUO YIHAN | guoy0065@e.ntu.edu.sg | Compliance checker and regime validation | LEI/UTI checks; CFTC/EMIR field validation; null-versus-zero margin logic; tests. | M3 / Testing |
+| G2505266E | ZHANG JUNYI | JUNYI006@e.ntu.edu.sg | Classification analysis, report, and dashboard integration | Prediction-market analysis; economic function test; EventContract schema; regulatory arbitrage; report/dashboard integration. | M4 / Dashboard / Final Report |
 
 > **Note:** All members participated in final integration, validation, and consistency review across the code outputs, written report, and dashboard. The final project was validated using the primary CFTC/EMIR run, with CFTC/MAS retained as an alternative Singapore-focused validation run.
 
