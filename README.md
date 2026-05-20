@@ -1,4 +1,4 @@
-# HW2 OTC Derivatives Trade Reporting Compliance Engine
+# MH6822 HW2 OTC Derivatives Trade Reporting Compliance Engine
 
 This project implements the Homework 2 pipeline:
 
