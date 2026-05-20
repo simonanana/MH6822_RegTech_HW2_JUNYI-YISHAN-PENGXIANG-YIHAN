@@ -13,7 +13,7 @@ This project implements the Homework 2 pipeline:
 | Matriculation Number | Name | Responsibility | Main Deliverables | Related Module |
 | --- | --- | --- | --- | --- |
 | G2505246J | LIU YISHAN | Data pipeline and trade parser | Raw/processed data review; parser handling; nulls, bad dates, partial timestamps. | M1 / Integration |
-| G2505431H | GONG PENG XIANG | UPI lookup and ANNA-DSB taxonomy validation | ANNA-DSB template lookup; product alias mapping; currency/reference-rate codesets; EventContract no-product-definition. | M2 / UPI Lookup Engine |
+| G2505431H | GONG PENGXIANG | UPI lookup and ANNA-DSB taxonomy validation | ANNA-DSB template lookup; product alias mapping; currency/reference-rate codesets; EventContract no-product-definition. | M2 / UPI Lookup Engine |
 | G2506255B | GUO YIHAN | Compliance checker and regime validation | LEI/UTI checks; CFTC/EMIR field validation; null-versus-zero margin logic; tests. | M3 / Testing |
 | G2505266E | ZHANG JUNYI | Classification analysis, report, and dashboard integration | Prediction-market analysis; economic function test; EventContract schema; regulatory arbitrage; report/dashboard integration. | M4 / Dashboard / Final Report |
 
