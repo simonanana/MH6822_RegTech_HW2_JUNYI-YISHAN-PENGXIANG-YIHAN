@@ -20,7 +20,7 @@ This project implements the Homework 2 pipeline:
 > **Note:** All members participated in final integration, validation, and consistency review across the code outputs, written report, and dashboard. The final project was validated using the primary CFTC/EMIR run, with CFTC/MAS retained as an alternative Singapore-focused validation run.
 
 ## Recorded Presentation Link
-[[https://drive.google.com/file/d/1qb7_YGOBcr9sAc-ox1x1D96l4OTNlDoe/view?usp=drive_link](https://drive.google.com/file/d/1qb7_YGOBcr9sAc-ox1x1D96l4OTNlDoe/view?usp=sharing)](https://drive.google.com/file/d/1qb7_YGOBcr9sAc-ox1x1D96l4OTNlDoe/view?usp=sharing)
+https://drive.google.com/file/d/1qb7_YGOBcr9sAc-ox1x1D96l4OTNlDoe/view?usp=sharing
 
 ## Quick Start
 
